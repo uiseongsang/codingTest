@@ -35,7 +35,6 @@ int main() {
             cin >> a[i][j];
         }
     }   
-
     solve(0,0);
     cout << ret;
     return 0;
